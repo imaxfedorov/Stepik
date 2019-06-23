@@ -1,3 +1,3 @@
 # Stepik
-For education
-This repository contain two slenium tasks from previous chapter and selenium module with webdrivers.
+For education.
+This repository contains two selenium tasks from previous chapter and selenium module with webdrivers.
